@@ -4,6 +4,9 @@ Circuit schematic and PCB files for the Lightsaber model controller
 
 ## Hardware parts
 
+### High-level hardware architecture
+![alt text](https://github.com/coreofbear/circuit_of_lightsaber/blob/master/hlha.png?raw=true)
+
 ### Core and BLE
 - Microcontroller with BLE [nRF52840](https://lcsc.com/product-detail/RF-Transceiver-ICs_Nordic-Semicon-NRF52840-QIAA-R_C190794.html) and his [datasheet](https://datasheet.lcsc.com/lcsc/2009271002_Nordic-Semicon-NRF52840-QIAA-R_C190794.pdf)
 - Chip antenna for BLE frequency [2450AT42A100E / JOHANSON](https://www.electronshik.ru/item/JOHANSON/2450AT42A100E) and her [datasheet](https://www.johansontechnology.com/datasheets/2450AT42A100/2450AT42A100.pdf)
