@@ -1,0 +1,8 @@
+#Altium ignores
+**/History
+**/*/History
+/__Previews/*
+**/__Previews/*
+**/*/__Previews/*
+/*Log*/*
+**/*Log*/*

@@ -1,0 +1,12 @@
+*.PrjPcb binary
+*.PrjPcbStructure binary
+*.PrjPcbVariants binary
+*.PcbDoc binary
+*.SchDoc binary
+*.PcbLib binary
+*.SchLib binary
+*.Harness binary
+*.BomDoc binary
+*.OutJob binary
+**/ODB++/**/* binary
+**/Production/**/* binary
