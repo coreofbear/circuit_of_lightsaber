@@ -16,7 +16,7 @@ Circuit schematic and PCB files for the Lightsaber model controller
 
 ### LEDs and LED driver 
 - LEDs CREE XP-E2 [XPEBRD-L1-0000-00501](https://www.digikey.com/en/products/detail/cree-inc/XPEBRD-L1-0000-00501/4177320), [XPEBBL-L1-0000-00Y02](https://www.digikey.com/en/products/detail/cree-inc/XPEBBL-L1-0000-00Y02/4177269), []() and they [datasheet (for XPEBRD-L1-0000-00501)](https://cree-led.com/media/documents/XLampXPE2.pdf)
-- LED current driver [MAX16832](https://www.digikey.com/en/products/detail/maxim-integrated/MAX16832AASA-T/1937932) and his [datasheet](https://datasheets.maximintegrated.com/en/ds/MAX16832A-MAX16832C.pdf)
+- LED current driver [PAM2804AAB010](https://lcsc.com/product-detail/LED-Drivers_Diodes-Incorporated-PAM2804AAB010_C71463.html) and his [datasheet](https://datasheet.lcsc.com/lcsc/1809302114_Diodes-Incorporated-PAM2804AAB010_C71463.pdf)
 
 ### UX/UI
 - Small SMD LEDs [APT1608CGCK](https://www.digikey.com/en/products/detail/kingbright/APT1608CGCK/1747514) and his [datasheet](https://www.kingbrightusa.com/images/catalog/SPEC/APT1608CGCK.pdf)
@@ -27,7 +27,7 @@ Circuit schematic and PCB files for the Lightsaber model controller
 - Speaker 4(Ohm) up to 3W [don't defined for now]() and his [datasheet]()
 
 ### SD card
-- SD card slot [DM3D-SF](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DM3D-SF/1786510) and his [datasheet](https://www.hirose.com/product/document?clcode=CL0609-0033-6-00&productname=DM3AT-SF-PEJ2M5&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en)
+- SD card slot [TF-002T-15](https://lcsc.com/product-detail/Card-Sockets-Connectors_SOFNG-TF-002T-15_C125616.html) and his [datasheet](https://datasheet.lcsc.com/lcsc/1810121710_SOFNG-TF-002T-15_C125616.pdf)
 
 ### Power management 
 - DC/DC 3v buck-converter [ST1S03](https://www.digikey.com/en/products/detail/stmicroelectronics/ST1S03PUR/1642179) and his[datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/57/3f/b9/13/fb/3b/46/4a/CD00046583.pdf/files/CD00046583.pdf/jcr:content/translations/en.CD00046583.pdf)
