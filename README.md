@@ -31,6 +31,7 @@ Circuit schematic and PCB files for the Lightsaber model controller
 
 ### Power management 
 - DC/DC 3v buck-converter [ST1S03](https://www.digikey.com/en/products/detail/stmicroelectronics/ST1S03PUR/1642179) and his[datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/57/3f/b9/13/fb/3b/46/4a/CD00046583.pdf/files/CD00046583.pdf/jcr:content/translations/en.CD00046583.pdf)
+- Battery charger [MAX1551EZK+T](https://www.digikey.com/en/products/detail/maxim-integrated/MAX1551EZK-T/1475701) and his [datasheet](https://datasheets.maximintegrated.com/en/ds/MAX1551-MAX1555.pdf)
 - Accumulator 3v7 with high discharge current [18650](https://www.chipdip.ru/product/robiton-li18650-3000) and his[datasheet](https://static.chipdip.ru/lib/333/DOC005333345.pdf)
 
 ### USB connect
